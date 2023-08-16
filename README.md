@@ -2,7 +2,7 @@
 
 ## Overview
 
-This project focuses on analyzing historical daily price data for stock indexes from various countries. The data is sourced from Yahoo Finance and covers multiple decades for most stock exchanges. The goal of this project is to gain insights into the behavior of these indexes, identify patterns, trends, and anomalies, and potentially build predictive models.
+This project focuses on analyzing historical daily price data for stock indexes from various countries. The data is sourced from Kaggle and covers multiple decades for most stock exchanges. The goal of this project is to gain insights into the behavior of these indexes, identify patterns, trends, and anomalies, and potentially build predictive models.
 
 ## Table of Contents
 
